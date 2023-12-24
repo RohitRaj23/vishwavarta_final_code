@@ -1,4 +1,4 @@
-import Message from "../models/messageModel.js";
+import Message from "../models/MessageModel.js";
 import User from '../models/UserModel.js';
 import Chat from "../models/chatModels.js";
 import { populate } from "dotenv";
